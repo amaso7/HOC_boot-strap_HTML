@@ -1,0 +1,28 @@
+#body-hoc{
+    display: flow-root;
+    background-color: #f8f9fa;
+    border-radius: 15px 50px 30px 5px;
+    margin: 5px;
+    font-style: oblique;
+    font-weight: bolder;
+    font-family: cursive;
+
+    
+}
+.navbar{
+    display: flow-root;
+    clear:both;
+    border-radius: 15px 50px 30px 5px;
+}
+.btn{
+    background-color: blue;
+    color: cornsilk;
+}
+.bottom-pg{
+    flex-direction: column;
+    font-family: cursive;
+}
+#pill-bot{
+    display: grid;
+    margin-right: 1600px;
+}
